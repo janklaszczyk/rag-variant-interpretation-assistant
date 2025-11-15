@@ -1,0 +1,7 @@
+data/
+venv/
+.venv/
+.env
+.mypy_cache/
+credentials.py
+streamlit/
